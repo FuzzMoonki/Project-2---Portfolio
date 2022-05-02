@@ -209,8 +209,8 @@ section {
 #first-project {
   width: 550px;
   height: 450px;
-  max-width: 550px;
-  max-height: 450px;
+  max-width: 250px;
+  max-height: 250px;
 }
 
 .step-text {
